@@ -1,0 +1,2 @@
+# Halite-Game
+AI Competition
